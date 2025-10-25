@@ -1,8 +1,7 @@
-import VideoUploader from './components/videoUploader'
+import VideoUploader from "./components/VideoUploader";
 
 const App = () => {
-  return <VideoUploader/>
-  
-}
+  return <VideoUploader />;
+};
 
-export default App
+export default App;

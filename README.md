@@ -6,7 +6,7 @@ A simple web app to upload videos, store them in Firebase Storage, and get autom
 
 ## 🌐 Live Demo
 
-Access the app here: **[YOUR_PUBLIC_URL_HERE]**
+Access the app here: **[https://video-transcription-app-three.vercel.app/]**
 
 ---
 
@@ -31,5 +31,4 @@ See the full **[CHECKLIST.md](./CHECKLIST.md)** for implementation details.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/video-transcription-app.git
-cd video-transcription-app/frontend
+git clone https://github.com/aman1205/Video-Transcription-App
